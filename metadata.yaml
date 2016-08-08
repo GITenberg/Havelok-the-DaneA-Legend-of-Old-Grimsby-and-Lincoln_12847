@@ -1,0 +1,30 @@
+_repo: Havelok-the-DaneA-Legend-of-Old-Grimsby-and-Lincoln_12847
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whistler, Charles W. (Charles Watts)
+    alias: Whistler, C. W. (Charles Watts)
+    birthdate: 1856
+    deathdate: 1913
+    gutenberg_agent_id: '4801'
+    url: http://www.gutenberg.org/2009/agents/4801
+    wikipedia: http://en.wikipedia.org/wiki/Charles_W._Whistler
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12847'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Anglo-Saxon period, 449-1066 -- Fiction'
+- !lcsh 'Havelok the Dane (Legendary character) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Havelok the Dane
+
+  A Legend of Old Grimsby and Lincoln'
+url: http://www.gutenberg.org/ebooks/12847
